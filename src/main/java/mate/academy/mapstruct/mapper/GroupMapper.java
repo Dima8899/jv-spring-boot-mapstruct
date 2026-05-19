@@ -1,6 +1,5 @@
 package mate.academy.mapstruct.mapper;
 
-import ch.qos.logback.core.model.ComponentModel;
 import mate.academy.mapstruct.dto.group.CreateGroupRequestDto;
 import mate.academy.mapstruct.dto.group.GroupDto;
 import mate.academy.mapstruct.model.Group;
